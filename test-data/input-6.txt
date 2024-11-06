@@ -1,0 +1,3 @@
+#check if secondary fails if failure rate 100%
+GT4500,0,0,10,1
+TORPEDO,SINGLE
