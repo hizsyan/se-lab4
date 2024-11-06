@@ -1,0 +1,3 @@
+#check if torpedo-less ship fires, ALL
+GT4500,0,0,0,0
+TORPEDO,ALL

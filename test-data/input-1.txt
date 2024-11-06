@@ -1,0 +1,3 @@
+#test if ship with no torpedoes fires SINGLE
+GT4500,0,0,0,0
+TORPEDO,SINGLE
